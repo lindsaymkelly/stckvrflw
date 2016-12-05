@@ -1,8 +1,12 @@
+# Stckvrflw
+
+A web app built using Ruby, Activerecord, and the Sinatra frame work as a clone of Stack Overflow.
+
 
 ## Team No Vowels:
 
-* [Asiya Gizatulina](https://github.com/asyaasha)
 * [Lindsay Kelly](https://github.com/lindsaymkelly)
+* [Asiya Gizatulina](https://github.com/asyaasha)
 * [Nan Min](https://github.com/nanutza)
 * [Jason Perlman](https://github.com/jpperlm)
 
