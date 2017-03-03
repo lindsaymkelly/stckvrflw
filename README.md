@@ -1,6 +1,6 @@
 # Stckvrflw
 
-A web app built using Ruby, Activerecord, and the Sinatra frame work as a clone of Stack Overflow.
+An application built using Ruby, Activerecord, and the Sinatra framework to serve as a clone of Stack Overflow.
 
 
 ## Team No Vowels:
